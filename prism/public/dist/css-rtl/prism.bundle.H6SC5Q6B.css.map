@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../../../../../tmp/tmp-23555-SRnP1HR2TI73/prism/prism/public/prism.bundle.css"],
-  "sourcesContent": [":root {\n  --sidebar-custom-width: 300px;\n  --primary-color: #237461;\n  --secondary-color: #0ea12414;\n  --light-green-color: #0ca07deb;\n  --lightdark-green-color: #5aa694;\n}\n\n@media (min-width: 768px) {\n  body.full-width .container {\n    width: 98%;\n    max-width: 100%;\n  }\n}\n.navbar-home img {\n  width: 100px;\n  height: 50px;\n  background-color: white;\n  padding: 3px 0;\n  border-radius: 5px;\n  box-shadow: #5aa694 0px 0px 10px 0px;\n}\n\n.navbar {\n  background-color: var(--primary-color);\n}\n\n.max-content-width {\n  width: -moz-max-content;\n  width: max-content;\n  max-width: 250px;\n}\n\n.layout-main-section {\n  background-color: #5aa694 !important;\n}"],
-  "mappings": ";AAAA;AACE;AACA;AACA;AACA;AACA;AAAA;AAGF;AACE;AACE;AACA;AAAA;AAAA;AAGJ;AACE;AACA;AACA;AACA;AACA;AACA;AAAA;AAGF;AACE;AAAA;AAGF;AACE;AACA;AACA;AAAA;AAGF;AACE;AAAA;",
-  "names": []
-}
