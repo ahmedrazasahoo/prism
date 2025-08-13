@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../apps/prism/prism/public/js/navbar.js"],
+  "sourcesContent": ["console.log(\" han g a gye ho la ka \")"],
+  "mappings": ";;AAAA,UAAQ,IAAI,wBAAwB;",
+  "names": []
+}
