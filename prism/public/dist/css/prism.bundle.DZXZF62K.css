@@ -1,0 +1,96 @@
+@import "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap";
+
+/* ../../../../../tmp/tmp-13978-4Nb6AarfahC6/prism/prism/public/prism.bundle.css */
+:root {
+  --primary: #87ceeb;
+  --primary-subtle: white;
+  --primary-hover: #b3e0f2;
+  --primary-focus: #86ceeb;
+  --primary-disable: rgba(135, 206, 235, 0.5);
+  --primary-rgb:
+    135,
+    206,
+    235;
+  --warning: #ffa500;
+  --warning-subtle: #ffe6b8;
+  --warning-hover: #ffb733;
+  --warning-focus: #fea400;
+  --warning-disable: rgba(255, 165, 0, 0.5);
+  --warning-rgb:
+    255,
+    165,
+    0;
+  --danger: #ff4500;
+  --danger-subtle: #ffcbb8;
+  --danger-hover: #ff6a33;
+  --danger-focus: #fe4500;
+  --danger-disable: rgba(255, 69, 0, 0.5);
+  --danger-rgb:
+    255,
+    69,
+    0;
+  --success: #32cd32;
+  --success-subtle: #c6f1c6;
+  --success-hover: #5bd75b;
+  --success-focus: #32cc32;
+  --success-disable: rgba(50, 205, 50, 0.5);
+  --success-rgb:
+    50,
+    205,
+    50;
+  --light: #e6f7ff;
+  --light-subtle: white;
+  --light-hover: white;
+  --light-focus: #e5f7ff;
+  --light-disable: rgba(230, 247, 255, 0.5);
+  --light-rgb:
+    230,
+    247,
+    255;
+  --dark: #2f4f4f;
+  --dark-subtle: #81b4b4;
+  --dark-hover: #426f6f;
+  --dark-focus: #2f4e4e;
+  --dark-disable: rgba(47, 79, 79, 0.5);
+  --dark-rgb:
+    47,
+    79,
+    79;
+  --muted: #b0c4de;
+  --body: #ffffff;
+  --text: #000000;
+  --bc: #a9cce3;
+  --fs: 1rem;
+  --shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  --shadow-lg: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  --rounded: 10px;
+  --gap: 6.5rem;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: var(--body);
+  color: var(--text);
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+  font-optical-sizing: auto;
+}
+body::-webkit-scrollbar {
+  width: 10px;
+}
+body::-webkit-scrollbar-thumb {
+  border-right: solid 5px #1d1f20;
+  background: #5f5f5f;
+}
+body::-webkit-scrollbar-track {
+  border: none;
+  background: #1d1f20;
+}
+/*# sourceMappingURL=prism.bundle.DZXZF62K.css.map */
